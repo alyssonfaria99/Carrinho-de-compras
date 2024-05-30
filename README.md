@@ -10,8 +10,7 @@
   <li>Cálculo do valor total dos produtos;</li>
 </ul>
 
-<p>Modo de execução:>
-<p> - Baixe os arquivos e execute o arquivo index.html</p>
+<p>Para executar o projeto é necessário baixar os arquivos e executar o arquivo index.html no seu navegador</p>
 
 <p>Aqui está uma imagem do projeto:</p>
 
