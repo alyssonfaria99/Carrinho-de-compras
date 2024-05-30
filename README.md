@@ -9,5 +9,5 @@
   <li>Limpar o carrinho;</li>
   <li>Cálculo do valor total dos produtos;</li>
 </ul>
-![image](https://github.com/alyssonfaria99/Carrinho-de-compras/assets/139504868/aa3d3a7d-5144-4ca7-a83d-f246e80d424a)
+![image](images/image.png)
 
